@@ -1,0 +1,23 @@
+taskList = [23, “Jane”, [“Lesson 23”, 560, {“currency” : “KES”}], 987, (76,”John”)]
+
+
+Determing type of variable in taskList using an inbuilt function
+Print KES
+Print 560
+Use a function to determine the length of taksList
+Change 987 to 789 without using an inbuilt -method (I.e Reverse)
+Change the name “John” to “Jane” .
+
+
+
+ls1 = [123,34,54645,34,5] . Find the largest number in ls1 without using the max function.
+
+
+Given the dictionary below, find the total profit made
+	profit= {
+                              "cost_price": 32.67,
+                              "sell_price": 45.00,
+                              "inventory": 1200
+                            }
+
+

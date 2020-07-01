@@ -1,0 +1,28 @@
+OOP - prog paradigm based on the concept of objects wich contain data
+        in the form of fields(attributs) and code procedures (Methods)
+
+Object - A real world object representation. eg. Car, Dog, Driver
+        SHARE - Data n Bhvr of the object.
+
+        Data = Attributes - no. of wheels, seat capacity, engine type
+        Behavior = Method Accelerate, stop, remaining fuel capacity
+
+Class -  Blueprint from which objects are created.
+        == A model for its objects=> A way to define attributes and bhvrs
+		
+
+
+Based on OOP paradigm, Simulate a school model 
+factoring in the various attributes of a
+ school and behaviors (Use data of your preference)
+ 
+create a simple model to represent a book store ,
+ in that one can borrow, 
+purchase and finally return a book after being issued 
+
+Simulate a simple employee model whereby the 
+details of the employee are factored in first,  his/her salary is calculated 
+and an operation salary increase taken in as a method(behavior) 
+
+
+

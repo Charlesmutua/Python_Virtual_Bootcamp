@@ -1,0 +1,28 @@
+1. Write a Python program to count the occurrences 
+of the word "python" in a given sentence below:
+4.Write a program that takes your full name as input and displays the abbreviations 
+of the first and middle names except the last name which is displayed as it is. 
+For example, if your name is Robert Brett Roser, then the output should be R.B.Roser.
+
+6.Write a python program to find the index of the first occurrence of a substring 
+in a string below -> plane
+
+"The worlds fastest plane"
+
+5.Write a python program that checks if a string begins with a capital letter.
+earning how to program in python. I find python programming fun"
+
+2.Reverses the word below:
+
+"reven"
+
+1. Write a Python program to count the occurrences 
+of the word "python" in a given sentence below:
+
+"We are learning how to program in python. I find python programming fun"
+
+2.Reverses the word below:
+
+"reven"
+
+3.Write a program to check if the letter 'e' is present in the word 'Umbrella'

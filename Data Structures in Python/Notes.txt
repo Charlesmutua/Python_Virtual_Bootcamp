@@ -1,0 +1,8 @@
+len = Get length
+
+slicing = start:stop:step
+
+Combine Lists+===> list1+list2
+              ===> list1.extend(list2)
+
+Reverse = list[::-1]
