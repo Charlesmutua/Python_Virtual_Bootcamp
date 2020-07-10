@@ -1,0 +1,6 @@
+Process:
+
+1. Initialize a Git Repository -> git init
+2. Prepare changes to be added to git repo ==> git add (. adds including hidden. * - All)
+3. Give a commit name ==>git commit -m 'relevant name'
+4. Push changes online - git push origin master= 
